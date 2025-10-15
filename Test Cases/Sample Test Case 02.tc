@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Sample Test Case 02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5ae0691e-0da2-4bc8-8021-206e074de93b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>74ce3906-51a8-4171-b6ab-bfe4e8925d8a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM'</defaultValue>
+      <description></description>
+      <id>74ce3906-51a8-4171-b6ab-bfe4e8925d8a</id>
+      <masked>true</masked>
+      <name>wrongPassword</name>
+   </variable>
+</TestCaseEntity>
